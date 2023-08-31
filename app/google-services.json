@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "938456499919",
+    "project_id": "t-kart-7f937",
+    "storage_bucket": "t-kart-7f937.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938456499919:android:8c098bc379a9b2539c59ba",
+        "android_client_info": {
+          "package_name": "com.example.t_kart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938456499919-73mipc93vba3mtpd4srcfh6m8b8a37i5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu_BXjYIDIxk8t8BKopPkA3svC5I_IXK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938456499919-73mipc93vba3mtpd4srcfh6m8b8a37i5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

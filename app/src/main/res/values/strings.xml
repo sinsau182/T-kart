@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">T-kart</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="cart_fragment">Cart Fragment</string>
+    <string name="my_dashboard">My Dashboard</string>
+    <string name="home_page">Home Page</string>
+    <string name="home">Home</string>
+    <string name="cart">Cart</string>
+    <string name="profile">Profile</string>
+    <string name="shop_by_category">Shop by Category</string>
+    <string name="see_all">See All</string>
+    <string name="shop_by_product">Shop by Product</string>
+    <string name="checkout">Checkout</string>
+
+</resources>
